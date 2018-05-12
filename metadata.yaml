@@ -1,5 +1,8 @@
 _repo: Hilda-Lessways_10658
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -16,6 +19,8 @@ description: The second novel in the Clayhanger series, Hilda Lessways (1911) is
   of age, her work as a shorthand clerk and in a lodging house in London and Brighton,
   her relationship with George Cannon, which ends in a pregnancy, and finally her
   reconciliation with Edwin.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10658#Hilda-Lessways
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
